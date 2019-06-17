@@ -22,9 +22,4 @@ cse:
 household:
     sellhousehold: providerprefix
 
-  handler:
-        chain:
-          Provider:
-            default: auth-provider
-          Consumer:
-            default: auth-consumer
+  
